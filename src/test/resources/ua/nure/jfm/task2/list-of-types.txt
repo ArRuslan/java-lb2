@@ -1,0 +1,8 @@
+ua.nure.jfm.task2.Array
+ua.nure.jfm.task2.ArrayImpl
+ua.nure.jfm.task2.Container
+ua.nure.jfm.task2.Demo
+ua.nure.jfm.task2.List
+ua.nure.jfm.task2.ListImpl
+ua.nure.jfm.task2.Stream
+ua.nure.jfm.task2.StreamImpl

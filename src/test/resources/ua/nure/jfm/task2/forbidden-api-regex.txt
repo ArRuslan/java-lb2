@@ -1,0 +1,4 @@
+(?x)
+^
+java\.util\.(?!Arrays|Iterator|NoSuchElementException)\S+
+$
